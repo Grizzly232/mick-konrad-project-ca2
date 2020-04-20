@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bus App</string>
+    <string name="call_button_text">Rufen Sie den Service an</string>
+    <string name="route_text">Route:</string>
+    <string name="time_due_text">protokoll</string>
+    <string name="instruction_text">Geben Sie die ID einer Bushaltestelle ein (2336, 2335, 251)</string>
+</resources>

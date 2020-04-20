@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bus App</string>
+    <string name="call_button_text">Call Service</string>
+    <string name="route_text">Route:</string>
+    <string name="time_due_text">minutes</string>
+    <string name="instruction_text">Enter the ID of a bus stop (2336, 2335, 251)</string>
+</resources>
